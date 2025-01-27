@@ -1,0 +1,19 @@
+#root {
+  width: 100%;
+}
+
+h1, p, div {
+  color: black;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 26px;
+}
